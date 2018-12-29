@@ -5,6 +5,10 @@ I have found the following motivations behind this project:
 
 * Eliminate accent to make it easier for some people to grasp.
 
+* The facilitator may also speak too fast or to slow to be understood. While one
+speed up or slow down videos, it may not be the best solution as the voice will
+be distored. So, it can actually make the hearing and understanding worse.
+
 * Make finding reference easier by simple text search rather than playing video
 back and forth.
 
