@@ -42,6 +42,9 @@ notes. This is also called as multitasking.
 * Some people may just wish to store this knowledge on disk. In this case, text
 will consume less space on the hard disk than videos.
 
+* Sometimes, the video is a bit quiet and not loud enough. So, at times, it is
+difficult to hear the audio properly thereof.
+
 Having said that, all credit goes to Chaitanya Charan Prabhuji's classes. They
 are extremely valuable asset in the Vedic fold, especially those studying for
 Bhakti Shastri.
